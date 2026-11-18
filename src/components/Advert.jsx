@@ -44,7 +44,7 @@ function Advert() {
             Knowledge and market insights
           </p>
           <div className="flex items-center justify-center">
-            <button className="bg-green-900 md:bg-green-500 text-white  hover:bg-green-900  z-10 rounded-full px-3 py-1 mt-4 cursor-pointer">
+            <button className="bg-green-900 md:bg-green-500 text-white  hover:bg-green-700  z-10 rounded-full px-3 py-1 mt-4 cursor-pointer">
               Get started for free
             </button>
           </div>

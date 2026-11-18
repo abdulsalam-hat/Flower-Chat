@@ -5,8 +5,8 @@ function Description(){
         <div className="items-center justify-center text-center pt-10 pr-20">
             <div className="flex flex-row justify-center items-center pl-30 ">
                 <div className="items-center justify-center text-center">
-            <p className="text-lg  text-green-800"> FlowerChat is the</p>
-            <p className='text-green-800'> Intelligent assistant for global flower industry</p>
+            <p className="text-lg flex flex-wrap  text-green-800"> FlowerChat is the Intelligent assistant for global flower industry</p>
+            
                 </div>
                 <img  src={group} alt="group" />
             </div>
