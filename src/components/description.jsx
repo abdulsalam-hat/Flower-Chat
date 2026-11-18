@@ -11,7 +11,7 @@ function Description(){
                 <img  src={group} alt="group" />
             </div>
             
-            <div className="items-center text-gray-700 pt-2 justify-center flex flex-row pr-9 ">
+            <div className="items-center text-gray-700 pt-2 justify-center flex flex-row pr-15 ">
              <div>
                  <img className="w-20" src={image10} alt="image10" />
               </div>
