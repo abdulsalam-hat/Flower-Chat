@@ -14,7 +14,7 @@ function Faqs() {
             <p className="text-base md:text-lg font-medium text-gray-900 ">
               What is FlowerChat?
             </p>
-            <button className=" w-6 h-6 pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
+            <button className=" w-6 h-6 pb-1 md:pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
               -
             </button>
           </div>
@@ -33,7 +33,7 @@ function Faqs() {
             <p className="text-base md:text-lg font-medium text-gray-900 ">
               Who is Flowerbot for?
             </p>
-            <button className=" w-6 h-6 pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
+            <button className=" w-6 h-6 pb-1 md:pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
               +
             </button>
           </div>
@@ -45,7 +45,7 @@ function Faqs() {
             <p className="text-base md:text-lg font-medium text-gray-900 ">
               How accurate is the AI's information?
             </p>
-            <button className=" w-6 h-6 pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
+            <button className=" w-6 h-6 pb-1 md:pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
               +
             </button>
           </div>
@@ -57,7 +57,7 @@ function Faqs() {
             <p className="text-base md:text-lg font-medium text-gray-900 ">
               How does the AI Plant Doctor work?
             </p>
-            <button className=" w-6 h-6 pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
+            <button className=" w-6 h-6 pb-1 md:pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
               +
             </button>
           </div>
@@ -69,7 +69,7 @@ function Faqs() {
             <p className="text-base md:text-lg font-medium text-gray-900 ">
               What kind of questions can I ask Flowerbot?
             </p>
-            <button className=" w-6 h-6 md:pb-1 rounded-full border-2 text-green-500 flex font-bold place-items-center justify-center  text-2xl">
+            <button className=" w-6 h-6 pb-1 md:pb-1 rounded-full border-2 text-green-500 flex font-bold items-center justify-center  text-2xl">
               +
             </button>
           </div>
