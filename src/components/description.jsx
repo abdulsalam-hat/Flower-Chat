@@ -2,8 +2,8 @@ import group from "../assets/group.svg";
 import image10 from '../assets/image 10.svg';
 function Description(){
     return(
-        <div className="items-center justify-center text-center pt-10 pr-20">
-            <div className="flex flex-row justify-center items-center pl-30 ">
+        <div className="items-center justify-center text-center pt-4 ">
+            <div className="flex flex-row justify-center items-center  ">
                 <div className="items-center justify-center text-center">
             <p className="text-lg flex flex-wrap  text-green-800"> FlowerChat is the Intelligent assistant for global flower industry</p>
             

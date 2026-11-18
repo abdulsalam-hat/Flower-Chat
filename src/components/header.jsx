@@ -2,8 +2,8 @@ import logo from "/src/assets/flowerchat.svg";
 function Header() {
   return (
     
-    <header className="  md:flex md:flex-row flex-col flex justify-between items-center pt-5 px-2  ">
-        <img src={logo} alt="Logo" className="w-65   pl-10" />
+    <header className="  md:flex md:flex-row flex-col flex justify-between items-center py-5  ">
+        <img src={logo} alt="Logo" className="w-80  " />
       <div className="flex flex-row gap-5">
         <a className="text-black cursor-pointer" href="/knowledge">KnowledgeBase</a>
         <a className="text-black cursor-pointer" href="/plant-doctor">plantDoctor</a>
