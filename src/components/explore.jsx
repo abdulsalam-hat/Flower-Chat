@@ -2,7 +2,7 @@ import group from "../assets/group1.png"
 import rose from "../assets/rose.png"
 import watercan from "../assets/watercan.png";
 import littleflower from "../assets/littleflower.png"
-import vase from "../assets/Flowervase.png"
+import vase from "../assets/vase.png"
 
 function Explore(){
     return(
